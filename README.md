@@ -4,6 +4,6 @@ This version of suckless's wonderful simple terminal comes with the alpha, scrol
 Xresources compatibility patches pre-installed. Solarized dark colors are used by default.
 
 ### Original version of the simple terminal
-(https://st.suckless.org)
+<https://st.suckless.org>
 ### About suckless software
-(https://suckless.org)
+<https://suckless.org>
