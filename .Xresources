@@ -1,0 +1,50 @@
+! XTerm font
+*faceName: Monospace
+*faceSize: 14
+! st font
+*font: mono:pixelsize=18:antialias=true:autohint=true
+
+!
+! Generated with :
+! XRDB2Xreources.py
+!
+*.foreground:  #9cc2c3
+*.background:  #001e27
+*.cursorColor: #f34b00
+!
+! Black
+*.color0:      #002831
+*.color8:      #002831
+!
+! Red
+*.color1:      #f5163b
+*.color9:      #f5163b
+!
+! Green
+*.color2:      #51ef84
+*.color10:     #51ef84
+!
+! Yellow
+*.color3:      #b27e28
+*.color11:     #b27e28
+!
+! Blue
+*.color4:      #178ec8
+*.color12:     #178ec8
+!
+! Magenta
+*.color5:      #e24d8e
+*.color13:     #e24d8e
+!
+! Cyan
+*.color6:      #00b39e
+*.color14:     #00b39e
+!
+! White
+*.color7:      #eae3cb
+*.color15:     #fcf4dc
+!
+! Bold, Italic, Underline
+*.colorBD:     #b5d5d3
+!*.colorIT:
+!*.colorUL:
